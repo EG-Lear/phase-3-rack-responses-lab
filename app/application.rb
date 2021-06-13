@@ -9,8 +9,6 @@ class Application
     else
       resp.write /Morning/i
     end
-
-    # resp.write "Hello, World"
     resp.finish
   end
 
